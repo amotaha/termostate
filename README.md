@@ -2,3 +2,4 @@
 برنامه اردینو پیست کنید
 
 ![image](https://github.com/user-attachments/assets/57512fef-a789-4365-b80e-588dddefbdf1)
+ برای زیبایی بیشتر از oled ابی زرد استفاده کنید
